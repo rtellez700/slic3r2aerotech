@@ -17,5 +17,4 @@ You'll still need to measure offsets
 
 ## Dependencies
 - conda install pip
-- pip install fbs
-- conda install -c anaconda pyqt    
+- pip install fbs, pyqt5 
